@@ -1,18 +1,12 @@
-Contributor Covenant
+    Contributor of a Covenant
 ====================
-
+contract 
 A code of conduct for open source projects.
-
 ## Project Home Page
-
 For an overview and usage instructions, please visit http://contributor-covenant.org/
-
-## Contributing
-
+    contributory(or other 
 Please feel free to submit pull requests or open issues to improve the language of this pledge.
-
-## Examples of Projects Using the Contributor Covenant
-
+## Examples of Projects Using the Contributor Coven ant
 * [24 Pull Requests](https://github.com/24pullrequests/24pullrequests)
 * [AASM](https://github.com/aasm/aasm)
 * [Algorrent](https://github.com/algorrent/algorrent)
@@ -66,3 +60,4 @@ Please feel free to submit pull requests or open issues to improve the language 
 * [Volt.rb](https://github.com/voltrb/volt)
 * [WAI-request-spec](https://gitlab.com/cpp.cabrera/wai-request-spec)
 * [xoreos](https://github.com/xoreos/xoreos)
+        #this is one of the most important feature of a web application for the development of the app 
